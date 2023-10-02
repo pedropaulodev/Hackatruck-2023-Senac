@@ -10,6 +10,11 @@ A metodologia de ensino utilizada neste Hackatruck foi o CBL (_Challenge Based L
 ## Primeiro Desafio.
 Neste desafio aprendemos a controlar ordens e manipular UserInputs `Wrapper @State`.
 
-<img width="300"  src="https://github.com/pedropaulodev/Hackatruck-2023-Senac/assets/99366229/a6155403-39c8-45d4-a380-7a94f07b8f88">
+<img width="250"  src="https://github.com/pedropaulodev/Hackatruck-2023-Senac/assets/99366229/a6155403-39c8-45d4-a380-7a94f07b8f88">
+
+## Segundo Desafio.
+Neste desafio aprendemos a utilizar navegatioLink, Strucks e o ForEach para criação e navegação entre as telas.
+
+<img width="250"  src="https://github.com/pedropaulodev/Hackatruck-2023-Senac/assets/99366229/e537cd39-cc07-4cc8-8575-85c16d2d7c8a">
 
 
